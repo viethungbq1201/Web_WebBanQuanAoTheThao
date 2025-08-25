@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "Taikhoan": "Duck2@gmail.com",
+    "MatKhau": "5464f",
+    "HoTen": "Nguyễn Quang Dũng",
+    "SoDienThoai": "0638493748"
+  },
+  {
+    "Id": 2,
+    "Taikhoan": "Duck3@gmail.com",
+    "MatKhau": "sgsg65",
+    "HoTen": "Nguyễn Quang Dũng",
+    "SoDienThoai": "0638493748"
+  },
+  {
+    "Id": 4,
+    "Taikhoan": "Duck1@gmail.com",
+    "MatKhau": "riyr7",
+    "HoTen": "Nguyễn Quang Dũng",
+    "SoDienThoai": "0638493748"
+  },
+  {
+    "Id": 5,
+    "Taikhoan": "hsefu@gmail.com",
+    "MatKhau": "1291203",
+    "HoTen": "Bùi Quang Việt Hùng",
+    "SoDienThoai": "08988978"
+  },
+  {
+    "Id": 6,
+    "Taikhoan": ",",
+    "MatKhau": "",
+    "HoTen": "sfee",
+    "SoDienThoai": ""
+  }
+]

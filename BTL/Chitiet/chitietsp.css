@@ -1,0 +1,636 @@
+﻿.main {
+    display: block;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    padding: 20px;
+    background-color: #000000;
+    position: relative;
+}
+
+.header__logo {
+    max-width: 80px;
+}
+
+    .header__logo img {
+        width: 80px;
+    }
+
+.header__navbar-list {
+    list-style: none;
+    display: flex;
+}
+
+.header__navbar-item {
+    margin: 0 10px;
+    padding: 10px 0;
+}
+
+.header__navbar-item-link {
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 10px 15px;
+    text-transform: uppercase;
+}
+
+.item_red .header__navbar-item-link {
+    background-color: #f15a24;
+    border-radius: 3px;
+}
+
+.header__navbar-item-link:hover {
+    background-color: #444;
+    border-radius: 3px;
+}
+
+.header__item {
+    display: flex;
+    align-items: center;
+}
+
+.item__search-wrap {
+    position: relative;
+    margin-right: 20px;
+}
+
+.item__search-input {
+    width: 250px;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    font-size: 14px;
+    padding-left: 35px;
+    outline: none;
+}
+
+.search-icon-link {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+}
+
+.search-icon-link-icon {
+    width: 18px;
+}
+
+.user__icon, .cart__icon {
+    width: 40px;
+    margin-right: 20px;
+}
+
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 120px auto; /* Căn giữa container */
+}
+
+.top-section {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+/* Thư viện ảnh sản phẩm */
+.product-gallery {
+    display: flex;
+    flex-direction: row;
+    gap: 10px; /* Khoảng cách giữa thumbnails và ảnh chính */
+    max-width: 500px;
+    align-items: flex-start;
+}
+
+.thumbnails {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+    .thumbnails img {
+        width: 50px;
+        height: 50px;
+        object-fit: cover;
+        cursor: pointer;
+        border: 1px solid #ccc;
+        transition: border-color 0.3s;
+    }
+
+        .thumbnails img:hover {
+            border-color: #f15a24;
+        }
+
+.main-image {
+    width: 400px;
+    height: 500px; /* Chiều cao cho ảnh chính */
+    position: relative;
+}
+
+    .main-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+/* Thông tin sản phẩm */
+.product-info {
+    flex: 1;
+}
+
+.product-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.rating {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.stars {
+    font-size: 20px;
+    color: #f15a24;
+}
+
+.rating-score {
+    margin-left: 10px;
+}
+
+/* Giá sản phẩm */
+.price {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+.original-price {
+    text-decoration: line-through;
+}
+
+.discount-price {
+    font-size: 20px;
+    color: #f15a24;
+}
+
+/* Màu sắc sản phẩm */
+.product-color, .size-options {
+    margin-bottom: 10px;
+}
+
+.color-options {
+    display: flex;
+    gap: 10px;
+}
+
+.color-box {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+/* Kích cỡ sản phẩm */
+.size-options {
+    display: flex;
+    gap: 10px;
+}
+
+.size-btn {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+
+
+/* Giỏ hàng và số lượng */
+.cart-section {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.quantity {
+    display: flex;
+    gap: 5px;
+}
+
+.quantity-input {
+    width: 40px;
+    text-align: center;
+}
+
+.add-to-cart {
+    background-color: #1f1f1f;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Đặc điểm nổi bật */
+.product-highlights {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+}
+
+.highlights-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.highlights-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.highlights-icons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.highlight-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+    .highlight-item img {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 10px;
+    }
+
+.highlight-image img {
+    width: 200px;
+    height: auto;
+}
+
+/* Chia phần additional-info và highlight-image thành 2 cột */
+.additional-content {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.additional-info {
+    flex: 1;
+}
+
+    .additional-info ul {
+        list-style-type: none;
+        padding: 0;
+    }
+
+        .additional-info ul li {
+            margin-bottom: 10px;
+        }
+
+.highlight-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .highlight-image img {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+    }
+
+.goiy {
+    position: relative;
+    margin-top: 40px;
+}
+
+.goiy_content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.container__grid {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+.container__gridcolumn {
+    width: 220px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+}
+
+.ctn__grid-img {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    transition: all 0.3s ease-in-out;
+}
+
+.grid-descrip-cost {
+    display: flex;
+    align-items: center; /* Aligns items vertically in the center */
+    justify-content: center; /* Centers the entire row horizontally */
+    gap: 5px;
+}
+
+.descrip-currcost {
+    text-decoration: line-through;
+    font-size: 14px;
+    margin: 0;
+}
+
+.descrip-discount {
+    width: 30px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    font-size: 13px;
+    color: #ffffff;
+    background-color: rgb(0, 94, 255);
+    margin: 0; /* Remove any default margins */
+}
+
+.descrip-costori {
+    font-size: 20px;
+    color: #f15a24;
+    margin-top: 5px; /* Adds some spacing from .grid-descrip-cost */
+}
+.footer {
+    background-color: #000000;
+    padding: 40px 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    bottom: 0;
+}
+
+
+.footer__comment {
+    flex: 1;
+}
+
+.ft__comment-title {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ft__comment-content {
+    margin-top: 5px;
+    color: #f0eeee;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.ft__comment-contribute {
+    margin-top: 30px;
+    background-color: #2f5acf;
+    height: 50px;
+    width: 150px;
+    color: #e4e2e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 0;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+    .ft__comment-contribute:hover {
+        color: #000000;
+        background-color: #ffffff;
+        font-weight: bold;
+    }
+
+.ft__contact {
+    width: 20%;
+    text-align: center;
+}
+
+.ft__contact-item {
+    display: flex;
+    margin-top: 20px;
+}
+
+.ft__contact-img {
+    margin-right: 20px;
+}
+
+.ft__title {
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.ft__Text {
+    margin-top: 4px;
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.ft__socialnw {
+    width: 40%; /* Đặt chiều rộng cho phần mạng xã hội */
+    display: flex; /* Sử dụng flexbox cho các icon mạng xã hội */
+    justify-content: flex-end; /* Đặt các icon ở bên phải */
+    margin-right: 20px;
+}
+
+.ft__socialnw-icon {
+    height: 50px;
+    margin-right: 30px;
+}
+
+#hr {
+    position: absolute;
+    background-color: #f0eeee;
+    margin-top: 170px;
+    height: 2px;
+    width: 90%;
+    margin-left: 70px;
+}
+@media (max-width: 1069px) {
+
+    /* Header */
+    .header {
+        padding: 10px;
+        flex-direction: column; /* Thay đổi layout của header khi trên màn hình nhỏ */
+        align-items: center;
+    }
+
+    .header__navbar-list {
+        flex-direction: column;
+        margin-top: 10px;
+    }
+
+    .header__navbar-item {
+        margin: 5px 0;
+    }
+
+    .header__logo img {
+        width: 60px;
+    }
+
+    .item__search-input {
+        width: 200px;
+    }
+
+    /* Product Gallery */
+    .product-gallery {
+        flex-direction: column;
+        gap: 20px;
+        max-width: 100%;
+    }
+
+    .main-image {
+        width: 100%;
+        height: auto;
+    }
+
+    .thumbnails img {
+        width: 40px;
+        height: 40px;
+    }
+
+    /* Product Info */
+    .product-info {
+        flex: 1;
+    }
+
+    .product-title {
+        font-size: 20px;
+    }
+
+    .price {
+        flex-direction: column;
+    }
+
+    .discount-price {
+        font-size: 18px;
+    }
+
+    .color-options {
+        flex-direction: column;
+    }
+
+    .size-options {
+        flex-direction: column;
+    }
+
+    /* Cart Section */
+    .cart-section {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .quantity {
+        flex-direction: row;
+    }
+
+    /* Product Highlights */
+    .product-highlights {
+        padding: 15px;
+    }
+
+    .highlights-content {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    /* Footer */
+    .footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .footer__comment {
+        flex: 1;
+        text-align: center;
+    }
+
+    .ft__contact {
+        width: 100%;
+    }
+
+    .ft__contact-item {
+        margin-top: 10px;
+        justify-content: center;
+    }
+
+    .ft__socialnw {
+        width: 100%;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .ft__socialnw-icon {
+        margin-right: 15px;
+    }
+
+    /* Additional Grid and Content Layout */
+    .container__grid {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .container__gridcolumn {
+        width: 100%;
+        flex-shrink: 0;
+    }
+
+    .ctn__grid-img {
+        width: 100%;
+    }
+
+    #hr {
+        margin-top: 20px;
+        height: 1px;
+        width: 90%;
+        margin-left: 0;
+    }
+}

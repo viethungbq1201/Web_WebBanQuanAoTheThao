@@ -1,0 +1,215 @@
+D:\BTLW\BTL\BTL\bin\BTL.dll.config
+D:\BTLW\BTL\BTL\bin\BTL.dll
+D:\BTLW\BTL\BTL\bin\BTL.pdb
+D:\BTLW\BTL\BTL\bin\roslyn\csc.exe
+D:\BTLW\BTL\BTL\bin\roslyn\csc.exe.config
+D:\BTLW\BTL\BTL\bin\roslyn\csc.rsp
+D:\BTLW\BTL\BTL\bin\roslyn\csi.exe
+D:\BTLW\BTL\BTL\bin\roslyn\csi.exe.config
+D:\BTLW\BTL\BTL\bin\roslyn\csi.rsp
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTLW\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\BTLW\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTLW\BTL\BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTLW\BTL\BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTLW\BTL\BTL\bin\roslyn\vbc.exe
+D:\BTLW\BTL\BTL\bin\roslyn\vbc.exe.config
+D:\BTLW\BTL\BTL\bin\roslyn\vbc.rsp
+D:\BTLW\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+D:\BTLW\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\BTLW\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTLW\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTLW\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\BTLW\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\BTLW\BTL\BTL\obj\Debug\BTL.csproj.Up2Date
+D:\BTLW\BTL\BTL\obj\Debug\BTL.dll
+D:\BTLW\BTL\BTL\obj\Debug\BTL.pdb
+D:\BTLW\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BTLW\BTL\BTL\bin\roslyn\System.Buffers.dll
+D:\BTLW\BTL\BTL\bin\roslyn\System.Memory.dll
+D:\BTLW\BTL\BTL\bin\roslyn\System.Numerics.Vectors.dll
+D:\BTLW\BTL\BTL\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTLW\BTL\BTL\bin\Newtonsoft.Json.dll
+D:\BTLW\BTL\BTL\bin\Newtonsoft.Json.xml
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\BTL.dll.config
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\BTL.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\BTL.pdb
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csc.exe
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csc.exe.config
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csc.rsp
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csi.exe
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csi.exe.config
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csi.rsp
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Buffers.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Memory.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Numerics.Vectors.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\vbc.exe
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\vbc.exe.config
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\vbc.rsp
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\Newtonsoft.Json.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BTL_LTWeb_Chot\BTL\BTL\bin\Newtonsoft.Json.xml
+D:\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.csproj.Up2Date
+D:\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.dll
+D:\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.pdb
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\BTL.dll.config
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\BTL.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\BTL.pdb
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csc.exe
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csc.exe.config
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csc.rsp
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csi.exe
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csi.exe.config
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\csi.rsp
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Buffers.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Memory.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\vbc.exe
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\vbc.exe.config
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\vbc.rsp
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\Newtonsoft.Json.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\bin\Newtonsoft.Json.xml
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.csproj.Up2Date
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.dll
+C:\Users\mikvo\Documents\Zalo Received Files\BTL_LTWeb_Chot\BTL\BTL\obj\Debug\BTL.pdb
+D:\Visual Studio\BTL\BTL\bin\BTL.dll.config
+D:\Visual Studio\BTL\BTL\bin\BTL.dll
+D:\Visual Studio\BTL\BTL\bin\BTL.pdb
+D:\Visual Studio\BTL\BTL\bin\roslyn\csc.exe
+D:\Visual Studio\BTL\BTL\bin\roslyn\csc.exe.config
+D:\Visual Studio\BTL\BTL\bin\roslyn\csc.rsp
+D:\Visual Studio\BTL\BTL\bin\roslyn\csi.exe
+D:\Visual Studio\BTL\BTL\bin\roslyn\csi.exe.config
+D:\Visual Studio\BTL\BTL\bin\roslyn\csi.rsp
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio\BTL\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Buffers.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Memory.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Numerics.Vectors.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio\BTL\BTL\bin\roslyn\vbc.exe
+D:\Visual Studio\BTL\BTL\bin\roslyn\vbc.exe.config
+D:\Visual Studio\BTL\BTL\bin\roslyn\vbc.rsp
+D:\Visual Studio\BTL\BTL\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio\BTL\BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio\BTL\BTL\bin\Newtonsoft.Json.dll
+D:\Visual Studio\BTL\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio\BTL\BTL\bin\Newtonsoft.Json.xml
+D:\Visual Studio\BTL\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Visual Studio\BTL\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BTL\BTL\obj\Debug\BTL.csproj.Up2Date
+D:\Visual Studio\BTL\BTL\obj\Debug\BTL.dll
+D:\Visual Studio\BTL\BTL\obj\Debug\BTL.pdb
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\BTL.dll.config
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\BTL.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\BTL.pdb
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\csc.exe
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\csc.exe.config
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\csc.rsp
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\csi.exe
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\csi.exe.config
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\csi.rsp
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Buffers.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Memory.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Numerics.Vectors.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\vbc.exe
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\vbc.exe.config
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\vbc.rsp
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\Newtonsoft.Json.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio\BTL_LTWeb_Final\BTL\bin\Newtonsoft.Json.xml
+D:\Visual Studio\BTL_LTWeb_Final\BTL\obj\Debug\BTL.csproj.AssemblyReference.cache
+D:\Visual Studio\BTL_LTWeb_Final\BTL\obj\Debug\BTL.csproj.CoreCompileInputs.cache
+D:\Visual Studio\BTL_LTWeb_Final\BTL\obj\Debug\BTL.csproj.Up2Date
+D:\Visual Studio\BTL_LTWeb_Final\BTL\obj\Debug\BTL.dll
+D:\Visual Studio\BTL_LTWeb_Final\BTL\obj\Debug\BTL.pdb

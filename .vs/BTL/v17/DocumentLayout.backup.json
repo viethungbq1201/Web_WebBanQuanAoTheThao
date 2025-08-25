@@ -1,0 +1,554 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio\\BTL_LTWeb_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|d:\\visual studio\\btl_ltweb_final\\btl\\trangchu\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangchu\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\thi01.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\thi01.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\thi01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\thi01.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\ngdung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\ngdung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\dangky\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\dangky\\dangky.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\dangnhap\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\dangnhap\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangdathang\\trangdathang.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangdathang\\trangdathang.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangdathang\\trangdathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangdathang\\trangdathang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangdathang\\ordersuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangdathang\\ordersuccess.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\giohang\\giohang.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\giohang\\giohang.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\giohang\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\giohang\\giohang.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\danhmuc\\danhmuc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\danhmuc\\danhmuc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\danhmuc\\danhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\danhmuc\\danhmuc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\chitiet\\chitietsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\chitiet\\chitietsp.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\danhmuc\\danhmuc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\danhmuc\\danhmuc.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\giohang\\giohang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\giohang\\giohang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\giohang\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\giohang\\giohang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\qltaikhoan\\qltaikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\qltaikhoan\\qltaikhoan.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\qltaikhoan\\qltaikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\qltaikhoan\\qltaikhoan.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\chitiet\\chitietsp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\chitiet\\chitietsp.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangdathang\\dathang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangdathang\\dathang.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\chitiet\\chitietsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\chitiet\\chitietsp.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangdathang\\trangdathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangdathang\\trangdathang.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangdathang\\ordersuccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangdathang\\ordersuccess.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\trangchu\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\trangchu\\trangchu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\dangky\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\dangky\\dangky.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\danhmuc\\danhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\danhmuc\\danhmuc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\qltaikhoan\\qltaikhoan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\qltaikhoan\\qltaikhoan.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|D:\\Visual Studio\\BTL_LTWeb_Final\\btl\\dangnhap\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA961AB-ED3B-4479-B235-56C62A45527C}|BTL\\BTL.csproj|solutionrelative:btl\\dangnhap\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trangchu.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\trangchu\\trangchu.aspx",
+              "RelativeDocumentMoniker": "BTL\\trangchu\\trangchu.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\trangchu\\trangchu.aspx",
+              "RelativeToolTip": "BTL\\trangchu\\trangchu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-05T07:12:55.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Thi01.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Thi01.aspx",
+              "RelativeDocumentMoniker": "BTL\\Thi01.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Thi01.aspx",
+              "RelativeToolTip": "BTL\\Thi01.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T00:44:33.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Json.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Json.cs",
+              "RelativeDocumentMoniker": "BTL\\Json.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Json.cs",
+              "RelativeToolTip": "BTL\\Json.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:02:03.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dangky.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangky\\dangky.aspx",
+              "RelativeDocumentMoniker": "BTL\\dangky\\dangky.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangky\\dangky.aspx",
+              "RelativeToolTip": "BTL\\dangky\\dangky.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T13:59:18.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dangnhap.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangnhap\\dangnhap.aspx",
+              "RelativeDocumentMoniker": "BTL\\dangnhap\\dangnhap.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangnhap\\dangnhap.aspx",
+              "RelativeToolTip": "BTL\\dangnhap\\dangnhap.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T14:04:32.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\User.cs",
+              "RelativeDocumentMoniker": "BTL\\User.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\User.cs",
+              "RelativeToolTip": "BTL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:00:47.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NgDung.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\NgDung.cs",
+              "RelativeDocumentMoniker": "BTL\\NgDung.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\NgDung.cs",
+              "RelativeToolTip": "BTL\\NgDung.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:39:01.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Global.asax.cs",
+              "RelativeDocumentMoniker": "BTL\\Global.asax.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Global.asax.cs",
+              "RelativeToolTip": "BTL\\Global.asax.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:31:57.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thi01.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Thi01.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\Thi01.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Thi01.aspx.cs",
+              "RelativeToolTip": "BTL\\Thi01.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T00:50:21.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Sanpham.cs",
+              "RelativeDocumentMoniker": "BTL\\Sanpham.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Sanpham.cs",
+              "RelativeToolTip": "BTL\\Sanpham.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:07:05.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "qltaikhoan.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\QLTaiKhoan\\qltaikhoan.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\QLTaiKhoan\\qltaikhoan.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\QLTaiKhoan\\qltaikhoan.aspx.cs",
+              "RelativeToolTip": "BTL\\QLTaiKhoan\\qltaikhoan.aspx.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswI4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:32:57.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "giohang.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.aspx",
+              "RelativeDocumentMoniker": "BTL\\giohang\\giohang.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.aspx",
+              "RelativeToolTip": "BTL\\giohang\\giohang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T06:20:00.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "danhmuc.js",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.js",
+              "RelativeDocumentMoniker": "BTL\\danhmuc\\danhmuc.js",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.js",
+              "RelativeToolTip": "BTL\\danhmuc\\danhmuc.js",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAwFAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-08T23:27:03.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrangDatHang.js",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\TrangDatHang.js",
+              "RelativeDocumentMoniker": "BTL\\TrangDatHang\\TrangDatHang.js",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\TrangDatHang.js",
+              "RelativeToolTip": "BTL\\TrangDatHang\\TrangDatHang.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-09T11:05:33.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "chitietsp.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Chitiet\\chitietsp.aspx",
+              "RelativeDocumentMoniker": "BTL\\Chitiet\\chitietsp.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Chitiet\\chitietsp.aspx",
+              "RelativeToolTip": "BTL\\Chitiet\\chitietsp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-01T15:28:19.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "danhmuc.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.aspx",
+              "RelativeDocumentMoniker": "BTL\\danhmuc\\danhmuc.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.aspx",
+              "RelativeToolTip": "BTL\\danhmuc\\danhmuc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-08T23:24:34.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "giohang.js",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.js",
+              "RelativeDocumentMoniker": "BTL\\giohang\\giohang.js",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.js",
+              "RelativeToolTip": "BTL\\giohang\\giohang.js",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-09T06:20:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderSuccess.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\OrderSuccess.aspx",
+              "RelativeDocumentMoniker": "BTL\\TrangDatHang\\OrderSuccess.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\OrderSuccess.aspx",
+              "RelativeToolTip": "BTL\\TrangDatHang\\OrderSuccess.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T11:06:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrangDatHang.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\TrangDatHang.aspx",
+              "RelativeDocumentMoniker": "BTL\\TrangDatHang\\TrangDatHang.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\TrangDatHang.aspx",
+              "RelativeToolTip": "BTL\\TrangDatHang\\TrangDatHang.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-09T11:04:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "danhmuc.css",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.css",
+              "RelativeDocumentMoniker": "BTL\\danhmuc\\danhmuc.css",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.css",
+              "RelativeToolTip": "BTL\\danhmuc\\danhmuc.css",
+              "ViewState": "AgIAADgCAAAAAAAAAAAWwEUCAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-08T23:26:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "giohang.css",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.css",
+              "RelativeDocumentMoniker": "BTL\\giohang\\giohang.css",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.css",
+              "RelativeToolTip": "BTL\\giohang\\giohang.css",
+              "ViewState": "AgIAABwBAAAAAAAAAAAAwC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T06:20:33.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DatHang.css",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\DatHang.css",
+              "RelativeDocumentMoniker": "BTL\\TrangDatHang\\DatHang.css",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\DatHang.css",
+              "RelativeToolTip": "BTL\\TrangDatHang\\DatHang.css",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAKAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T11:06:00.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "chitietsp.css",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Chitiet\\chitietsp.css",
+              "RelativeDocumentMoniker": "BTL\\Chitiet\\chitietsp.css",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Chitiet\\chitietsp.css",
+              "RelativeToolTip": "BTL\\Chitiet\\chitietsp.css",
+              "ViewState": "AgIAAFgCAAAAAAAAAAAAwHsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T09:40:19.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "giohang.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\giohang\\giohang.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\giohang\\giohang.aspx.cs",
+              "RelativeToolTip": "BTL\\giohang\\giohang.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:53:38.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "chitietsp.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Chitiet\\chitietsp.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\Chitiet\\chitietsp.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\Chitiet\\chitietsp.aspx.cs",
+              "RelativeToolTip": "BTL\\Chitiet\\chitietsp.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T08:47:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "qltaikhoan.aspx",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\QLTaiKhoan\\qltaikhoan.aspx",
+              "RelativeDocumentMoniker": "BTL\\QLTaiKhoan\\qltaikhoan.aspx",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\QLTaiKhoan\\qltaikhoan.aspx",
+              "RelativeToolTip": "BTL\\QLTaiKhoan\\qltaikhoan.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-04T07:49:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TrangDatHang.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\TrangDatHang.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\TrangDatHang\\TrangDatHang.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\TrangDatHang.aspx.cs",
+              "RelativeToolTip": "BTL\\TrangDatHang\\TrangDatHang.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:05:03.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderSuccess.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\OrderSuccess.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\TrangDatHang\\OrderSuccess.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\TrangDatHang\\OrderSuccess.aspx.cs",
+              "RelativeToolTip": "BTL\\TrangDatHang\\OrderSuccess.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:07:05.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "dangky.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangky\\dangky.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\dangky\\dangky.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangky\\dangky.aspx.cs",
+              "RelativeToolTip": "BTL\\dangky\\dangky.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAxwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:59:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "trangchu.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\trangchu\\trangchu.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\trangchu\\trangchu.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\trangchu\\trangchu.aspx.cs",
+              "RelativeToolTip": "BTL\\trangchu\\trangchu.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwFMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:13:30.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "danhmuc.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\danhmuc\\danhmuc.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\danhmuc\\danhmuc.aspx.cs",
+              "RelativeToolTip": "BTL\\danhmuc\\danhmuc.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwBgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T23:25:16.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "qltaikhoan.css",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\QLTaiKhoan\\qltaikhoan.css",
+              "RelativeDocumentMoniker": "BTL\\QLTaiKhoan\\qltaikhoan.css",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\QLTaiKhoan\\qltaikhoan.css",
+              "RelativeToolTip": "BTL\\QLTaiKhoan\\qltaikhoan.css",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T07:49:35.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dangnhap.aspx.cs",
+              "DocumentMoniker": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangnhap\\dangnhap.aspx.cs",
+              "RelativeDocumentMoniker": "BTL\\dangnhap\\dangnhap.aspx.cs",
+              "ToolTip": "D:\\Visual Studio\\BTL_LTWeb_Final\\BTL\\dangnhap\\dangnhap.aspx.cs",
+              "RelativeToolTip": "BTL\\dangnhap\\dangnhap.aspx.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:05:04.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
